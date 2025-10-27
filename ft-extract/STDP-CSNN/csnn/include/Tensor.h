@@ -6,6 +6,8 @@
 #include <stdexcept>
 #include <sstream>
 #include <numeric>
+#include <limits>
+#include <stdint.h>
 
 #include "Debug.h"
 
